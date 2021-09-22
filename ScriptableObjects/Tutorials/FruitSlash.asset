@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6de90ab45f239c843ade3ca8ddf603eb, type: 3}
+  m_Name: FruitSlash
+  m_EditorClassIdentifier: 
+  subTitle: Fruit Slash
+  tutorialInfo: 'Objective: Cut down falling fruits
+
+
+    Controls: Hold finger on
+    screen to activate your blade. move around fruits to cut them
+
+
+    Scoring:
+    Cut as many fruits as you can.'

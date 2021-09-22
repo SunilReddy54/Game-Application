@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6de90ab45f239c843ade3ca8ddf603eb, type: 3}
+  m_Name: SquareJump
+  m_EditorClassIdentifier: 
+  subTitle: Square Jump
+  tutorialInfo: 'Objective: Reach As High As Possible
+
+
+    Controls: Tap on left
+    or right of screen to move player. Land on a platform to jump furthur up.
+
+
+    Scoring:
+    Junp up using platforms and collect points
+
+'
